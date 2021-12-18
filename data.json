@@ -1,0 +1,25 @@
+ {
+"cards":[{
+    "img":"images/img1.jpg",
+    "name":"iphone",
+    "rate":"70000",
+    "offer":"off/-50000",
+    "button":"view"
+
+},{
+        "img":"images/img2.jpg",
+        "name":" iphone 11 pro",
+        "rate":"70000",
+        "offer":"off/-60000",
+        "button":"view"
+    },{
+            "img":"images/img3.jpg",
+            "name":"iphone 13 pro",
+            "rate":"70000",
+            "offer":"off/-65000",
+            "button":"view"
+        }
+    
+]  
+    
+ } 
